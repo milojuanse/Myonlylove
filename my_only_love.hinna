@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Ti ❤️</title>
+    <style>
+        body {
+            background: url('Miamor.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .mensaje {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+        }
+        audio {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <audio autoplay loop controls>
+        <source src="Newjeans.mp3" type="audio/mpeg">
+        Tu navegador no soporta el audio.
+    </audio>
+
+    <div class="mensaje">
+        <h1>Para la persona más especial ❤️</h1>
+        <p>HOY ES 14 DE FEBRERO, 14, UN NÚMERO Y UNA FECHA MUY SIMBÓLICA PARA MUCHAS PERSONAS Y QUE PARA MÍ NUNCA HABÍA SIDO UNA FECHA IMPORTANTE HASTA QUE TE CONOCÍ.</p>
+        <p>ME GUSTARÍA PASARLA CONTIGO PERO NO PUEDO DEBIDO A LA DISTANCIA,</p>
+        <p>ASÍ QUE TE ESCRIBO ESTA CARTA CON UNA PÁGINA ASÍ.</p>
+        <p>TE AMO MUCHO Y QUIERO QUE SEPAS QUE SIEMPRE VOY A ESTAR PARA TI.</p>
+        <p>AUNQUE SABES QUE NO PUDE DARTE ALGO FÍSICO, TE ENTREGO ESTA PÁGINA QUE ME COSTÓ HACERLA MUCHÍSIMO.</p>
+           <hr>
+
+        <p><strong>Que loca es la vida, ¿no?</strong> Un día éramos simples conocidos, ni siquiera amigos, pero de un momento a otro nos volvimos muy, muy cercanos, tanto que empezamos a amarnos de una manera tan inigualable como si nos conociéramos de toda la vida, como si estuviéramos hechos el uno para el otro. Y la verdad, no me sentí para nada extraño, ¿sabes? Fue como si ya nos hubiéramos conocido mucho antes de existir y estuviéramos destinados el uno para el otro, y estoy feliz de haberte encontrado. Para mí, no es coincidencia: tú eres mi alma gemela, el amor de mi vida, mi media naranja, como dicen por ahí jejejeje. Tú eres mi razón de ser, y hoy 14 de febrero quiero recordarte que para mí eres la mejor mujer del mundo, y que a pesar de que Diosito nos haya puesto separados, estamos más juntos que cualquier otra pareja en el universo. Tú y yo estamos (∂ + m) ψ = 0 (conectados, o como le conocen los científicos, conexión cuántica), estamos... in-yun (destinados) a estar juntos para siempre, y nada ni nadie podrá romper eso. Tú vales más que la pena; por ti estoy dispuesto a entregar mi vida entera. Si mueres, muero contigo; si vives, vivo contigo. Tú y yo por siempre... ❤️</p>
+
+        <hr>
+
+        <p><strong>La luna ya no brilla...</strong></p>
+        <p>La luna ya no brilla como antes... ¿Y por qué?</p>
+        <p>Eso me he estado preguntando todo este tiempo. La gente se pregunta: ¿por qué?, ¿será que le robaron el brillo? Ja, para nada, no se lo robaron, simplemente llegaste tú y la opacaste porque tú brillas más que ella. Tú brillas más que el sol, por eso sol y luna sienten envidia. Tú eres perfección y sin razón de seguir... "la luna ya no brilla" más que tú.</p>
+
+        <p><em>- Escritor: Sebastián (osea yop)<br>
+        - Libro: Lo poco que te amo (Mío también)</em></p>
+
+        <h2>FELIZ 14 DE FEBRERO CARIÑO, TE ADORO CON TODA MI ALMA 💕</h2>
+    </div>
+</body>
+</html>
